@@ -6,7 +6,7 @@
 ## 🚀 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,ts,java,spring,postgres,prisma,git,linux" />
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,ts,java,spring,postgres,prisma,git,linux" />
 </p>
 
 ## 🌐 Connect with me
