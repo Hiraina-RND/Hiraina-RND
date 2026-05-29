@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there 👋 I'm Hiraina — You can call me Dahira 😄
 
-<!--
-**Hiraina-RND/Hiraina-RND** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student at HEI Madagascar  
+💻 Full Stack Developer passionate about building modern web applications  
+🚀 Currently focused on backend development, APIs, and scalable applications  
+🧠 Curious developer who loves improving coding skills every day
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,ts,java,spring,postgres,prisma,git,linux" />
+</p>
+
+## 📚 Currently Learning
+
+- Advanced Backend Development
+- REST API Design
+- Database Optimization
+- Clean Architecture
+
+## 🌱 Goals
+
+- Become a strong Full Stack Engineer
+- Build scalable and clean applications
+- Contribute to open-source projects
